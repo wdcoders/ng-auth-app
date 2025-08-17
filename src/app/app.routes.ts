@@ -1,5 +1,4 @@
 import { Routes } from '@angular/router';
-import { DefaultLayout } from './shared/layouts/default/default.layout';
 import { ShellLayout } from './shared/layouts/shell/shell.layout';
 
 export const routes: Routes = [
